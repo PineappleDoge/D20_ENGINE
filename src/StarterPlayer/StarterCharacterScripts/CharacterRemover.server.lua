@@ -1,0 +1,2 @@
+wait()
+script.Parent:Remove()
